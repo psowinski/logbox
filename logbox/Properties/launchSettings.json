@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "logbox": {
+      "commandName": "Project",
+      "commandLineArgs": "-c opent -n \"logbox ige 01\" -t 5000"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
